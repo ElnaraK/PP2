@@ -1,0 +1,6 @@
+/Users/elnarak/Projects/Lab_1/W1T4/W1T4/bin/Debug/W1T4.exe
+/Users/elnarak/Projects/Lab_1/W1T4/W1T4/bin/Debug/W1T4.pdb
+/Users/elnarak/Projects/Lab_1/W1T4/W1T4/obj/x86/Debug/W1T4.csprojAssemblyReference.cache
+/Users/elnarak/Projects/Lab_1/W1T4/W1T4/obj/x86/Debug/W1T4.csproj.CoreCompileInputs.cache
+/Users/elnarak/Projects/Lab_1/W1T4/W1T4/obj/x86/Debug/W1T4.exe
+/Users/elnarak/Projects/Lab_1/W1T4/W1T4/obj/x86/Debug/W1T4.pdb

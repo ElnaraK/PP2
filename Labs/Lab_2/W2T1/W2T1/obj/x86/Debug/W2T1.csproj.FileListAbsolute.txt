@@ -1,0 +1,6 @@
+/Users/elnarak/Projects/Lab_2/W2T1/W2T1/bin/Debug/W2T1.exe
+/Users/elnarak/Projects/Lab_2/W2T1/W2T1/bin/Debug/W2T1.pdb
+/Users/elnarak/Projects/Lab_2/W2T1/W2T1/obj/x86/Debug/W2T1.csprojAssemblyReference.cache
+/Users/elnarak/Projects/Lab_2/W2T1/W2T1/obj/x86/Debug/W2T1.csproj.CoreCompileInputs.cache
+/Users/elnarak/Projects/Lab_2/W2T1/W2T1/obj/x86/Debug/W2T1.exe
+/Users/elnarak/Projects/Lab_2/W2T1/W2T1/obj/x86/Debug/W2T1.pdb
